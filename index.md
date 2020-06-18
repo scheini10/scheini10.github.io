@@ -4,3 +4,4 @@ Paul Thomas Mann war ein deutscher Schriftsteller und einer der bedeutendsten Er
 * Der Zauberberg
 * Der Tod in Venedig
 * Buddenbrooks
+> Das Positive am Skeptiker ist, daß er alles für möglich hält.
